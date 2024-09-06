@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sami\\source\\repos\\crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|c:\\users\\sami\\source\\repos\\crud\\crud\\views\\work\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|solutionrelative:crud\\views\\work\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|c:\\users\\sami\\source\\repos\\crud\\crud\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|solutionrelative:crud\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|c:\\users\\sami\\source\\repos\\crud\\crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|solutionrelative:crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|c:\\users\\sami\\source\\repos\\crud\\crud\\views\\work\\allproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|solutionrelative:crud\\views\\work\\allproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|c:\\users\\sami\\source\\repos\\crud\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|c:\\users\\sami\\source\\repos\\crud\\crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|solutionrelative:crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|c:\\users\\sami\\source\\repos\\crud\\crud\\models\\prodinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|solutionrelative:crud\\models\\prodinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|c:\\users\\sami\\source\\repos\\crud\\crud\\migrations\\20240523062602_table_created.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|solutionrelative:crud\\migrations\\20240523062602_table_created.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|c:\\users\\sami\\source\\repos\\crud\\crud\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|solutionrelative:crud\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|c:\\users\\sami\\source\\repos\\crud\\crud\\migrations\\20240523073615_addprodimageurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|solutionrelative:crud\\migrations\\20240523073615_addprodimageurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|c:\\users\\sami\\source\\repos\\crud\\crud\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|solutionrelative:crud\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|c:\\users\\sami\\source\\repos\\crud\\crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|solutionrelative:crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|c:\\users\\sami\\source\\repos\\crud\\crud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|solutionrelative:crud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|c:\\users\\sami\\source\\repos\\crud\\crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F0D392F5-B8F9-461D-B201-FA3A561320A4}|crud\\crud.csproj|solutionrelative:crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkController.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\Controllers\\WorkController.cs",
+              "RelativeDocumentMoniker": "crud\\Controllers\\WorkController.cs",
+              "ToolTip": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\Controllers\\WorkController.cs",
+              "RelativeToolTip": "crud\\Controllers\\WorkController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAEYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:42:24.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\appsettings.json",
+              "RelativeDocumentMoniker": "crud\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\appsettings.json",
+              "RelativeToolTip": "crud\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T00:03:01.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "prodinfo.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\Models\\prodinfo.cs",
+              "RelativeDocumentMoniker": "crud\\Models\\prodinfo.cs",
+              "ToolTip": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\Models\\prodinfo.cs",
+              "RelativeToolTip": "crud\\Models\\prodinfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:07:35.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240523062602_Table_Created.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\Migrations\\20240523062602_Table_Created.cs",
+              "RelativeDocumentMoniker": "crud\\Migrations\\20240523062602_Table_Created.cs",
+              "ToolTip": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\Migrations\\20240523062602_Table_Created.cs",
+              "RelativeToolTip": "crud\\Migrations\\20240523062602_Table_Created.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:26:03.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "crud\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "crud\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:36:06.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\Views\\Work\\AllProducts.cshtml",
+              "RelativeDocumentMoniker": "crud\\Views\\Work\\AllProducts.cshtml",
+              "ToolTip": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\Views\\Work\\AllProducts.cshtml",
+              "RelativeToolTip": "crud\\Views\\Work\\AllProducts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T23:48:19.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\Views\\Work\\Edit.cshtml",
+              "RelativeDocumentMoniker": "crud\\Views\\Work\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\Views\\Work\\Edit.cshtml",
+              "RelativeToolTip": "crud\\Views\\Work\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T10:15:18.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\Views\\Work\\Index.cshtml",
+              "RelativeDocumentMoniker": "crud\\Views\\Work\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\Views\\Work\\Index.cshtml",
+              "RelativeToolTip": "crud\\Views\\Work\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T06:50:21.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\Program.cs",
+              "RelativeDocumentMoniker": "crud\\Program.cs",
+              "ToolTip": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\Program.cs",
+              "RelativeToolTip": "crud\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:47:17.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "crud\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "crud\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:46:37.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240523073615_AddProdImageUrl.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\Migrations\\20240523073615_AddProdImageUrl.cs",
+              "RelativeDocumentMoniker": "crud\\Migrations\\20240523073615_AddProdImageUrl.cs",
+              "ToolTip": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\Migrations\\20240523073615_AddProdImageUrl.cs",
+              "RelativeToolTip": "crud\\Migrations\\20240523073615_AddProdImageUrl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:36:23.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "crud\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "crud\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:50:34.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "crud\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "crud\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T23:42:56.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "crud.csproj",
+              "DocumentMoniker": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\crud.csproj",
+              "RelativeDocumentMoniker": "crud\\crud.csproj",
+              "ToolTip": "C:\\Users\\Sami\\source\\repos\\crud\\crud\\crud.csproj",
+              "RelativeToolTip": "crud\\crud.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T23:49:19.304Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
